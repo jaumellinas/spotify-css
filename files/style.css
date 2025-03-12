@@ -5,6 +5,10 @@
 	box-sizing: border-box;
 }
 
+html {
+    zoom: 80%;
+}
+
 /* Ajustes generales */
 body {
 	font-family: "Inter", serif;
